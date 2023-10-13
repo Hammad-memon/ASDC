@@ -491,6 +491,7 @@ body {
   #hero .carousel-control-next {
     width: 10%;
   }
+
   
   #hero .carousel-control-next-icon,
   #hero .carousel-control-prev-icon {
@@ -720,6 +721,7 @@ body {
 }
 
 .about .video-box {
+    clip-path: circle(87.7% at 4% 6%);
   position: relative;
 }
 
